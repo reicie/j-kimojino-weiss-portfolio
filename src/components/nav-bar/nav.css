@@ -1,0 +1,22 @@
+.navbar{
+    width: 100%;
+    height: 80px;
+    border: 1px solid red;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 0 1rem;
+    z-index: 2;
+    position: absolute;
+    color: white;
+}
+.logo .brand-name {
+    font-size: 2.5rem;
+}
+.nav-menu{
+    display: flex;
+}
+li {
+    padding: 0 1rem;
+    font-size: 1rem;
+}
